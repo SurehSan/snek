@@ -6,3 +6,7 @@ This is a simple snake game built from Python that utilizes the turtle library. 
 - food.py: Defines the Food class, a Turtle-based object that randomly respawns across the screen to serve as consumable items for the Snake game.
 - scoreboard.py: Creates a scoreboard to keep track of the user's points accumulated throughou the game.
 - snake.py: Defines the Snake class, handling the creation, movement, growth, and directional control of the multi-segment snake in the game.
+
+
+## Future Additions / Alternative Projects
+- Using reinforcement learning (RL) to create a snake bot that learns from it's mistakes.
