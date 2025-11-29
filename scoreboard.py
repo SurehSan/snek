@@ -1,3 +1,4 @@
+#Creates a scoreboard to keep track of the user's points accumulated throughou the game.
 from turtle import Turtle
 ALIGNMENT = "center"
 FONT = ("Courier", 20, "normal")
