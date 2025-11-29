@@ -1,3 +1,5 @@
+#Creates the food class for future use. 
+
 from turtle import Turtle
 import random
 
