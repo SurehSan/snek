@@ -10,3 +10,4 @@ This is a simple snake game built from Python that utilizes the turtle library. 
 
 ## Future Additions / Alternative Projects
 - Using reinforcement learning (RL) to create a snake bot that learns from it's mistakes.
+    -d
